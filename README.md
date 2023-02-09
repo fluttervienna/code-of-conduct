@@ -11,7 +11,6 @@ Some of these spaces may have additional rules in place, which will be made clea
 Contact one of the meetup organisers immediately:
 
 - **Simon Auer (mail@simonauer.at)**
-- Michael Fürst
 
 There'll always be at least one of them at any FlutterVienna-sponsored space.
 
